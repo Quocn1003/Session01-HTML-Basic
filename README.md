@@ -24,3 +24,8 @@
 - git remote add origin your_url : Thêm liên kết giữa kho local và kho sever (Github)
 - git push origin branch_name : Đẩy code từ kho local lên kho sever
 - git status : xem trạng thái
+
+## Yêu cầu bài tập
+
+1. Tạo ra 2 file HTMl bao gồm Home, Liên hệ
+   Link tham khảo: Home page: https://rikkei.edu.vn/visa-tokutei-la-gi/
